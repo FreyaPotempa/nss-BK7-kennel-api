@@ -1,0 +1,116 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Boo",
+      "breed": "British Shorthair",
+      "customerId": 2,
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Lil Guy",
+      "breed": "Tuxedo Tabby",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "name": "Poppy",
+      "breed": "Terrier Mix",
+      "customerId": 3,
+      "locationId": 2
+    },
+    {
+      "id": 5,
+      "name": "Bella",
+      "breed": "Domestic Shorthair",
+      "customerId": 2,
+      "locationId": 1
+    },
+    {
+      "name": "Pebbles",
+      "breed": "Pittie",
+      "locationId": 1,
+      "customerId": 3,
+      "id": 6
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "email": "hannah@hall.com",
+      "address": "7002 Chestnut Ct"
+    },
+    {
+      "id": 2,
+      "name": "Jo Schmo",
+      "email": "jo@schmo.com",
+      "address": "6383 Tanya Lane"
+    },
+    {
+      "id": 3,
+      "name": "Greta Van Fleet",
+      "email": "greta@vanfleet.com",
+      "address": "8667 Legros Pike"
+    },
+    {
+      "email": "ash@west.com",
+      "fullName": "Ashton West",
+      "address": "23 Bee in Bonnet Rd",
+      "id": 4
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Cloyd Jacobs",
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "Lesly Windler",
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Aaliyah Denesik",
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "name": "Sylvia Nader",
+      "locationId": 2
+    },
+    {
+      "name": "Googly Moogly",
+      "locationId": 2,
+      "id": 5
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    },
+    {
+      "name": "Mid-City",
+      "address": "123 Aleman Ave",
+      "id": 3
+    }
+  ]
+}
